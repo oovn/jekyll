@@ -1,0 +1,4 @@
+{% include postintag %}
+<div class="img-thumbnail">
+{% include post_year %}
+</div>

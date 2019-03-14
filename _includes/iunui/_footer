@@ -1,0 +1,13 @@
+</div></div>
+<footer class="container-fluid">
+<div class="d-flex justify-content-center img-thumbnail">
+
+text<br>
+text<br>
+text
+</div>
+<i>copy right 2017 - binhbat</i>
+</footer>
+<script src="{{site.url}}{{site.asseturl}}/bootstrap/v4/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.1.20/jquery.fancybox.min.js"></script>
+</body>
