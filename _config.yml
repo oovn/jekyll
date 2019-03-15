@@ -1,11 +1,11 @@
 #Site settings subprojet name
 baseurl: "/jekyll"
-asseturl: "jekyll/assets"
+asseturl: "/jekyll/assets"
 #Dir name in _includes
 skin: "iunui"
 # langsite
 lang:
- brandname: "Iu Núi"
+ brandname: "iunui"
  read_more: ">>"
  view: "XEM"
  showpostby: "danh mục: "
